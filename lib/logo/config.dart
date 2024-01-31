@@ -1,0 +1,31 @@
+class data
+{
+    static List ar=[
+      "img/l_v_scania.png",
+      "img/l_a_hello_kitty_s.png",
+      "img/l_a_lacoste.png",
+      "img/l_a_shell_s.png",
+      "img/l_a_starbucks_s.png",
+      "img/l_a_twitter_s.png",
+      "img/l_a_volkswagen_s.png",
+      "img/l_b_bp.png",
+      "img/l_b_kfc_o.png",
+      "img/l_b_linux_s.png",
+      "img/int_a_google_b.png",
+      "img/int_a_google_play_o.png",
+      "img/int_a_whatsapp_o.png",
+      "img/int_b_google_drive_o.png",
+      "img/l_a_amazon.png",
+      "img/l_a_apple_s.png",
+      "img/l_a_dell_o.png",
+      "img/l_a_facebook_s.png",
+      "img/l_b_firefox_s.png",
+      "img/l_c_cartoon_network_o.png",
+      "img/l_c_discovery_channel_o.png",
+      "img/l_c_dominos_pizza_o.png",
+      "img/l_c_loreal_o.png",
+      "img/l_c_microsoft_o.png",
+      "img/l_c_suzuki_o.png",
+      "img/l_f_snapchat_s.png",
+    ];
+}
